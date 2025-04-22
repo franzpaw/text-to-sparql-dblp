@@ -31,7 +31,7 @@ pip install uv
    ```bash
    # Copy the example environment file
    copy .env.example .env
-   # Edit .env and add your OpenAI API key
+   # Edit .env and add your OpenAI API key (https://platform.openai.com/settings/organization/api-keys)
    ```
 
 5. Run the project:
