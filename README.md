@@ -6,6 +6,9 @@ A Python-based Retrieval-Augmented Generation (RAG) pipeline that translates nat
 ## Installation
 
 ### Install uv
+1. Download uv from its official GitHub releases page: https://github.com/astral-sh/uv/releases
+2. Choose the correct binary for Windows, extract it, and add the folder to your PATH.
+Alternative Or, if you have Python and pip for just this step: python -m pip install uv
 
 ```bash
 # Install uv using pip (if not already installed)
