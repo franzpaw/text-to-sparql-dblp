@@ -1,0 +1,7 @@
+- Less Code: Follow always the saying "The simpler the better." For example use uuidv4() instead of writing own function
+- Simpler Maintenance: Dont make to many components. Fewer moving parts means easier debugging
+
+
+
+  My normal tech-stack:
+  - I use uv instead of pip
